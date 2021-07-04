@@ -2,10 +2,10 @@
 
 Deze ontdekpagina heeft als doel je te inspireren en is een plek waar je nieuwe onderwerpen kunt ontdekken.
 
-| **Wat**  | **Waar** | **Beschrijving** |
+| **Wat** | **Waar** | **Beschrijving** |
 | :---: | :---: | :---: |
 | **Alice** | [https://www.alice.org/](https://www.alice.org/) | Een blok-gebaseerde programmeertaal om animaties, interactieve verhalen en eenvoudige 3D-spellen te maken. |
-| **Astro Pi** | [[https://astro-pi.org/](https://astro-pi.org/) | 
+| **Astro Pi** | [https://astro-pi.org/](https://astro-pi.org/) | 
 | **Blender** | [https://www.blender.org/](https://www.blender.org/) | 
 | **Dash & Dot** | [https://www.makewonder.com/robots/](https://www.makewonder.com/robots/) | 
 | **Edison robot** | [https://www.q-edison.nl/](https://www.q-edison.nl/) | 
@@ -32,15 +32,15 @@ Deze ontdekpagina heeft als doel je te inspireren en is een plek waar je nieuwe 
 | **Visor** | [http://www.visor.live/](http://www.visor.live/) | 
 | | | |
 | | | |
-| **Code.org** | [https://code.org/](https://code.org/) | 
-| **Code Club** | [https://projects.raspberrypi.org/nl-NL/codeclub](https://projects.raspberrypi.org/nl-NL/codeclub) | 
-| **CodeGuppy** | [https://codeguppy.com/](https://codeguppy.com/) | 
-| **CoderDojo** | [https://projects.raspberrypi.org/nl-NL/coderdojo](https://projects.raspberrypi.org/nl-NL/coderdojo) | 
-| **CS Unplugged** | [https://www.csunplugged.org/en/](https://www.csunplugged.org/en/) | 
-| **Devoxx4Kids** | [http://www.devoxx4kids.org/materials/workshops/](http://www.devoxx4kids.org/materials/workshops/) | 
-| **FutureNL** | [https://futurenl.org/](https://futurenl.org/) | 
-| **MicroSoft MakeCode** | [https://www.microsoft.com/nl-nl/makecode](https://www.microsoft.com/nl-nl/makecode) | 
-| **Raspberry Pi Foundation** | [https://projects.raspberrypi.org/nl-NL/projects](https://projects.raspberrypi.org/nl-NL/projects) | 
+| **Code.org** | [https://code.org/](https://code.org/) | Cursussen en activiteiten om te leren programmeren. |
+| **Code Club** | [https://projects.raspberrypi.org/nl-NL/codeclub](https://projects.raspberrypi.org/nl-NL/codeclub) | Alle naar het Nederlands vertaalde Code Club-opdrachten. |
+| **CodeGuppy** | [https://codeguppy.com/](https://codeguppy.com/) | Cursussen om te leren programmeren in JavaScript. |
+| **CoderDojo** | [https://projects.raspberrypi.org/nl-NL/coderdojo](https://projects.raspberrypi.org/nl-NL/coderdojo) | Alle naar het Nederlands vertaalde CoderDojo-opdrachten. |
+| **CS Unplugged** | [https://www.csunplugged.org/en/](https://www.csunplugged.org/en/) | Opdrachten om te leren programmeren met en zonder computer. |
+| **Devoxx4Kids** | [http://www.devoxx4kids.org/materials/workshops/](http://www.devoxx4kids.org/materials/workshops/) | Verwijzingen naar een hoop leuke onderwerpen om te leren programmeren en met robots te werken. |
+| **FutureNL** | [https://futurenl.org/](https://futurenl.org/) | Lesmateriaal om digitale vaardigheden aan te leren. |
+| **MicroSoft MakeCode** | [https://www.microsoft.com/nl-nl/makecode](https://www.microsoft.com/nl-nl/makecode) | Maak kennis met informatica en ontwikkel je programmeervaardigheden. |
+| **Raspberry Pi Foundation** | [https://projects.raspberrypi.org/nl-NL/projects](https://projects.raspberrypi.org/nl-NL/projects) | Alle naar het Nederlands vertaalde Raspberry Pi-opdrachten. |
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons-Licentie" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Dit werk valt onder een <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.nl">Creative Commons Naamsvermelding-NietCommercieel-GelijkDelen 4.0 Internationaal-licentie</a>.
 
