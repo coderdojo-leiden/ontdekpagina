@@ -30,8 +30,7 @@ Deze ontdekpagina heeft als doel je te inspireren en is een plek waar je nieuwe 
 | **Turtlestitch** | [https://www.turtlestitch.org/](https://www.turtlestitch.org/) | 
 | **VCV Rack** | [https://vcvrack.com/](https://vcvrack.com/) | 
 | **Visor** | [http://www.visor.live/](http://www.visor.live/) | 
-| | | |
-| | | |
+| | | | |
 | **Code.org** | [https://code.org/](https://code.org/) | Cursussen en activiteiten om te leren programmeren. |
 | **Code Club** | [https://projects.raspberrypi.org/nl-NL/codeclub](https://projects.raspberrypi.org/nl-NL/codeclub) | Alle naar het Nederlands vertaalde Code Club-opdrachten. |
 | **CodeGuppy** | [https://codeguppy.com/](https://codeguppy.com/) | Cursussen om te leren programmeren in JavaScript. |
