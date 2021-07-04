@@ -3,7 +3,7 @@
 Deze ontdekpagina heeft als doel je te inspireren en is een plek waar je nieuwe onderwerpen kunt ontdekken.
 
 | **Wat** | **Waar** | **Beschrijving** |
-| :--- | :--- | :---: |
+| :--- | :--- | :--- |
 | **Alice** | [https://www.alice.org/](https://www.alice.org/) | Een blok-gebaseerde programmeertaal om animaties, interactieve verhalen en eenvoudige 3D-spellen te maken. |
 | **Astro Pi** | [https://astro-pi.org/](https://astro-pi.org/) | 
 | **Blender** | [https://www.blender.org/](https://www.blender.org/) | 
