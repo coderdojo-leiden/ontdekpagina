@@ -1,3 +1,5 @@
+![logo_leiden_zwart](images/logo_leiden_zwart_245×64.png)
+
 # Ontdekpagina
 
 Deze ontdekpagina heeft als doel je te inspireren en is een plek waar je nieuwe onderwerpen kunt ontdekken.
