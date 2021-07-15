@@ -16,7 +16,9 @@ Deze ontdekpagina heeft als doel je te inspireren en is een plek waar je nieuwe 
 **Game Studio** | [https://gamestudio.hetklokhuis.nl/](https://gamestudio.hetklokhuis.nl/) | nl | Maak eenvoudige games met dit programma van Het Klokhuis.
 **Godot Engine** | [https://godotengine.org/](https://godotengine.org/) | en | Programmeer professionele games gebruik makend van GDScript (een soort Python), C of C#.
 **Greenfoot** | [https://www.greenfoot.org/door](https://www.greenfoot.org/door) | en | Eenvoudige visuele programmeeromgeving voor de programmeertaal Java.
+**HackShield** | [https://www.joinhackshield.nl/](https://www.joinhackshield.nl/) | nl | HackShield is een game die kinderen tussen de 8 en 12 jaar oud weerbaar maakt tegen cybercriminaliteit.
 **Hedy** | [http://www.hedycode.com/?lang=nl](http://www.hedycode.com/?lang=nl) | nl | Leer stap voor stap Python programmeren. Begin met eenvoudige commando's en leer steeds meer commando's.
+**IoT-For-Beginners** | [https://github.com/microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners) | en | Lesmateriaal om projecten uit te voeren met Internet of Things (IoT) op een Arduino of een Raspberry Pi.
 **Klooikoffers** | [https://klooikoffers.nl/](https://klooikoffers.nl/) | nl | Knutselen met gereedschappen en materialen en ook met de micro:bit.
 **Kojo** | [http://www.kogics.net/kojo](http://www.kogics.net/kojo) | en | Programmeeromgeving voor de programmeertaal Scala. Maak tekeningen, animaties en games of stuur een Arduino aan.
 **Logo** | [http://logo.cheerful.nl/nl/](http://logo.cheerful.nl/nl/) | nl | Maak tekeningen met de programmeertaal Logo.
