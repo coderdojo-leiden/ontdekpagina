@@ -4,6 +4,8 @@
 
 Deze ontdekpagina heeft als doel je te inspireren en is een plek waar je nieuwe onderwerpen kunt ontdekken.
 
+De onderwerpen die al eens in een CoderDojo zijn behandeld kun je uiteraard vinden op de [Materiaalpagina](https://coderdojo-leiden.nl/materiaal) van CoderDojo Leiden.
+
 **Wat** | **Waar** | **Taal** | **Beschrijving**
 :--- | :--- | :--- | :---
 **Alice** | [https://www.alice.org/](https://www.alice.org/) | en | Een blok-gebaseerde programmeertaal om animaties, interactieve verhalen en eenvoudige 3D-spellen te maken.
@@ -25,6 +27,7 @@ Deze ontdekpagina heeft als doel je te inspireren en is een plek waar je nieuwe 
 **Machine Learning for Kids** | [https://machinelearningforkids.co.uk/?lang=nl-be#!/worksheets](https://machinelearningforkids.co.uk/?lang=nl-be#!/worksheets) | nl + en | Opdrachten voor machine learning-projecten met Scratch en Python.
 **Makey Makey** | [https://makeymakey.com/](https://makeymakey.com/) | en | Projecten waarbij je de computer koppelt aan dingen uit de echte wereld.
 **MicroBlocks** | [https://microblocks.fun/](https://microblocks.fun/) | en | Een blok-gebaseerde programmeertaal om kleine computers zoals de micro:bit mee te programmeren.
+**Peter Mathijssen** | [https://petermathijssen.nl/](http://petermathijssen.nl/) | nl | Projecten, tips en trucs, lessen en nog veel meer over App Inventor.
 **Processing** | [https://processing.org/](https://processing.org/) | en | Een programmeertaal en -omgeving o.a. voor het maken van 2D- en 3D-ontwerpen. Ook JavaScript, Python, Raspberry Pi en Android worden ondersteund.
 **Pure Data** | [http://puredata.info/](http://puredata.info/) | en | Een visuele programmeertaal voor multi-media, d.w.z. beeld, geluid, 2D- en 3D-graphics en meer.
 **Pygame** | [https://www.pygame.org/news](https://www.pygame.org/news) | en | Een verzameling Python modules om op een eenvoudige manier video games te maken.
