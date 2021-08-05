@@ -14,7 +14,8 @@ De onderwerpen die al eens in een CoderDojo zijn behandeld kun je uiteraard vind
 **Dash & Dot** | [https://www.makewonder.com/robots/](https://www.makewonder.com/robots/) | en | Eenvoudige programmeerbare robots die kunnen reageren op stemmen en geluiden.
 **Edison robot** | [https://www.q-edison.nl/](https://www.q-edison.nl/) | nl + en | Eenvoudige programmeerbare robot die kan reageren op geluid en licht.
 **EduBlocks** | [https://edublocks.org/](https://edublocks.org/) | en | Leer Python progammeren door eerst met blokken te werken.
-**GameMaker** | [http://www.game-maker.nl/](http://www.game-maker.nl/) | nl + en | Leer eenvoudig spelletje maken door het kiezen van acties. Voor meer gevorderde gebruikers is er een programmeertaal ingebouwd.
+**GameMaker** | [http://www.game-maker.nl/](http://www.game-maker.nl/) | nl + en | Leer eenvoudig spelletjes maken door het kiezen van acties. Voor meer gevorderde gebruikers is er een programmeertaal ingebouwd.
+**GDevelop** | [https://gdevelop-app.com/](https://gdevelop-app.com/) | en | Met GDevelop maak je games die er professioneel uitzien en die je ook op Android en iOS kunt draaien.
 **Game Studio** | [https://gamestudio.hetklokhuis.nl/](https://gamestudio.hetklokhuis.nl/) | nl | Maak eenvoudige games met dit programma van Het Klokhuis.
 **Godot Engine** | [https://godotengine.org/](https://godotengine.org/) | en | Programmeer professionele games gebruik makend van GDScript (een soort Python), C of C#.
 **Greenfoot** | [https://www.greenfoot.org/door](https://www.greenfoot.org/door) | en | Eenvoudige visuele programmeeromgeving voor de programmeertaal Java.
