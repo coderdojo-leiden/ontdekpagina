@@ -40,7 +40,7 @@ De onderwerpen die al eens in een CoderDojo zijn behandeld kun je uiteraard vind
 **Visor** | [http://www.visor.live/](http://www.visor.live/) | en | Een omgeving om live videoshows uit te voeren. Wordt een VJ door te programmeren in Ruby.
  | | |
  **BplusC i-Lab** | [https://www.bplusc.nl/bibliotheek/i-lab/](https://www.bplusc.nl/bibliotheek/i-lab/) | nl | De 'maakplek' van de Leidse bibliotheek.
- **Maakplaats** [https://www.bibliotheekrijnenvenen.nl/activiteiten/maakplaats.html](https://www.bibliotheekrijnenvenen.nl/activiteiten/maakplaats.html) | nl | De maakplaats van de bibliotheek Rijn en Venen.
+ **Maakplaats** | [https://www.bibliotheekrijnenvenen.nl/activiteiten/maakplaats.html](https://www.bibliotheekrijnenvenen.nl/activiteiten/maakplaats.html) | nl | De maakplaats van de bibliotheek Rijn en Venen.
  **Technolab Leiden** | [https://www.technolableiden.nl/](https://www.technolableiden.nl/) | nl | Voor op school en tijdens de vakantie.
  **The Space Leiden** | [https://spaceleiden.nl/](https://spaceleiden.nl/) | nl | Makerspace en hackerspace in Leiden.
  | | |
