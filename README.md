@@ -39,6 +39,16 @@ De onderwerpen die al eens in een CoderDojo zijn behandeld kun je uiteraard vind
 **VCV Rack** | [https://vcvrack.com/](https://vcvrack.com/) | en | Bouw je eigen modulaire synthesizer en programmeer daarop je eigen geluiden, effecten en ritmes.
 **Visor** | [http://www.visor.live/](http://www.visor.live/) | en | Een omgeving om live videoshows uit te voeren. Wordt een VJ door te programmeren in Ruby.
  | | |
+ **BplusC i-Lab** | [https://www.bplusc.nl/bibliotheek/i-lab/](https://www.bplusc.nl/bibliotheek/i-lab/) | nl | De 'maakplek' van de Leidse bibliotheek.
+ **Maakplaats** [https://www.bibliotheekrijnenvenen.nl/activiteiten/maakplaats.html](https://www.bibliotheekrijnenvenen.nl/activiteiten/maakplaats.html) | nl | De maakplaats van de bibliotheek Rijn en Venen.
+ **Technolab Leiden** | [https://www.technolableiden.nl/](https://www.technolableiden.nl/) | nl | Voor op school en tijdens de vakantie.
+ **The Space Leiden** | [https://spaceleiden.nl/](https://spaceleiden.nl/) | nl | Makerspace en hackerspace in Leiden.
+ | | |
+ **CoderDojo Alphen aan den Rijn** | [https://coderdojo-alphenaandenrijn.nl/](https://coderdojo-alphenaandenrijn.nl/) | nl | De CoderDojo in Alphen aan den Rijn.
+ **CoderDojo Den Haag** | [https://www.coderdojo-denhaag.nl/](https://www.coderdojo-denhaag.nl/) | nl | De CoderDojo in Den Haag.
+ **CoderDojo Hazerswoude-Rijndijk** | [https://www.coderdojo-hazerswoude.nl/](https://www.coderdojo-hazerswoude.nl/) | nl | De CoderDojo in Hazerswoude-Rijndijk.
+ **CoderDojo Zoetermeer** | [http://www.coderdojo-zoetermeer.nl/](http://www.coderdojo-zoetermeer.nl/) | nl | De CoderDojo in Zoetermeer.
+ | | |
 **Code.org** | [https://code.org/](https://code.org/) | nl | Cursussen en activiteiten om te leren programmeren.
 **Code Club** | [https://projects.raspberrypi.org/nl-NL/codeclub](https://projects.raspberrypi.org/nl-NL/codeclub) | nl | Alle naar het Nederlands vertaalde Code Club-opdrachten.
 **CodeGuppy** | [https://codeguppy.com/](https://codeguppy.com/) | en | Cursussen om te leren programmeren in JavaScript.
