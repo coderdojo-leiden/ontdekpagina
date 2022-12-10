@@ -25,6 +25,7 @@ De onderwerpen die al eens in een CoderDojo zijn behandeld kun je uiteraard vind
 **Klooikoffers** | [https://klooikoffers.nl/](https://klooikoffers.nl/) | nl | Knutselen met gereedschappen en materialen en ook met de micro:bit.
 **Kojo** | [http://www.kogics.net/kojo](http://www.kogics.net/kojo) | en | Programmeeromgeving voor de programmeertaal Scala. Maak tekeningen, animaties en games of stuur een Arduino aan.
 **Logo** | [http://logo.cheerful.nl/nl/](http://logo.cheerful.nl/nl/) | nl | Maak tekeningen met de programmeertaal Logo.
+**Maak het met code** | [https://maakhetmetcode.nl/](https://maakhetmetcode.nl/) | nl | Een online platform over Computational Thinking, offline programmeren en programmeren met de micro:bit.
 **Machine Learning for Kids** | [https://machinelearningforkids.co.uk/?lang=nl-be#!/worksheets](https://machinelearningforkids.co.uk/?lang=nl-be#!/worksheets) | nl + en | Opdrachten voor machine learning-projecten met Scratch en Python.
 **Makey Makey** | [https://makeymakey.com/](https://makeymakey.com/) | en | Projecten waarbij je de computer koppelt aan dingen uit de echte wereld.
 **MicroBlocks** | [https://microblocks.fun/](https://microblocks.fun/) | en | Een blok-gebaseerde programmeertaal om kleine computers zoals de micro:bit mee te programmeren.
