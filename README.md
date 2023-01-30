@@ -10,6 +10,7 @@ De onderwerpen die al eens in een CoderDojo zijn behandeld kun je uiteraard vind
 :--- | :--- | :--- | :---
 **Alice** | [https://www.alice.org/](https://www.alice.org/) | en | Een blok-gebaseerde programmeertaal om animaties, interactieve verhalen en eenvoudige 3D-spellen te maken.
 **Astro Pi** | [https://astro-pi.org/](https://astro-pi.org/) | en + nl | Schrijf programma's en ontwerp experimenten die aan boord van het ISS worden uitgevoerd.
+**Beverwedstrijd** | [https://www.beverwedstrijd.nl/](https://www.beverwedstrijd.nl/) | nl | De Beverwedstrijd is bedoeld om spelenderwijs te ontdekken of je interesse en/of talent hebben voor informatica en computational thinking.
 **Blender** | [https://www.blender.org/](https://www.blender.org/) | en | Software om 3D-animaties, video's en nog veel meer te maken.
 **Dash & Dot** | [https://www.makewonder.com/robots/](https://www.makewonder.com/robots/) | en | Eenvoudige programmeerbare robots die kunnen reageren op stemmen en geluiden.
 **Edison robot** | [https://www.q-edison.nl/](https://www.q-edison.nl/) | nl + en | Eenvoudige programmeerbare robot die kan reageren op geluid en licht.
