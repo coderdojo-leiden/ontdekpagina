@@ -32,6 +32,7 @@ De onderwerpen die al eens in een CoderDojo zijn behandeld kun je uiteraard vind
 **MicroBlocks** | [https://microblocks.fun/](https://microblocks.fun/) | en | Een blok-gebaseerde programmeertaal om kleine computers zoals de micro:bit mee te programmeren.
 **Peter Mathijssen** | [https://petermathijssen.nl/](http://petermathijssen.nl/) | nl | Projecten, tips en trucs, lessen en nog veel meer over App Inventor.
 **Processing** | [https://processing.org/](https://processing.org/) | en | Een programmeertaal en -omgeving o.a. voor het maken van 2D- en 3D-ontwerpen. Ook JavaScript, Python, Raspberry Pi en Android worden ondersteund.
+**Project Beats** | [https://studio.code.org/projectbeats](https://studio.code.org/projectbeats) | en | Maak muziek met code! Probeer bij elkaar passende beats te mixen met bassen en andere geluiden om je eigen songs te maken.
 **Pure Data** | [http://puredata.info/](http://puredata.info/) | en | Een visuele programmeertaal voor multi-media, d.w.z. beeld, geluid, 2D- en 3D-graphics en meer.
 **Pygame** | [https://www.pygame.org/news](https://www.pygame.org/news) | en | Een verzameling Python modules om op een eenvoudige manier video games te maken.
 **Pygame Zero** | [https://pygame-zero.readthedocs.io/](https://pygame-zero.readthedocs.io/) | en | Een verzameling Python modules om nog eenvoudiger video games te maken.
