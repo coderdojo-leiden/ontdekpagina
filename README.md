@@ -38,13 +38,14 @@ De onderwerpen die al eens in een CoderDojo zijn behandeld kun je uiteraard vind
 **Pygame Zero** | [https://pygame-zero.readthedocs.io/](https://pygame-zero.readthedocs.io/) | en | Een verzameling Python modules om nog eenvoudiger video games te maken.
 **RoboMind** | [https://www.robomind.net/nl](https://www.robomind.net/nl) | nl | Programmeer een virtuele robot zodat die door de door jou ontwerpen wereld kan rijden.
 **Snap!** | [https://snap.berkeley.edu/](https://snap.berkeley.edu/) | nl | Een blok-gebaseerde programmeertaal die heel erg op Scratch lijkt.
+**Stencyl** | [https://stencyl.com/](https://stencyl.com/) | en + nl | Maak professionele platform games met een blok-gebaseerde programmeertaal.
 **Turtlestitch** | [https://www.turtlestitch.org/](https://www.turtlestitch.org/) | nl | Een blok-gebaseerde programmeertaal om tekeningen te maken die op een borduurmachine kunnen worden uitgevoerd.
 **VCV Rack** | [https://vcvrack.com/](https://vcvrack.com/) | en | Bouw je eigen modulaire synthesizer en programmeer daarop je eigen geluiden, effecten en ritmes.
 **Visor** | [http://www.visor.live/](http://www.visor.live/) | en | Een omgeving om live videoshows uit te voeren. Wordt een VJ door te programmeren in Ruby.
  | | |
 **BplusC i-Lab** | [https://www.bplusc.nl/bibliotheek/i-lab/](https://www.bplusc.nl/bibliotheek/i-lab/) | nl | De 'maakplek' van de Leidse bibliotheek.
 **Maakplaats** | [https://www.bibliotheekrijnenvenen.nl/activiteiten/maakplaats.html](https://www.bibliotheekrijnenvenen.nl/activiteiten/maakplaats.html) | nl | De maakplaats van de bibliotheek Rijn en Venen.
-**Nationaal Videogame Museum | [https://www.nationaalvideogamemuseum.nl/](https://www.nationaalvideogamemuseum.nl/) | nl | Voor iedereen die meer wil weten (en beleven) over de geschiedenis, maatschappelijke en culturele kant van videogames.
+**Nationaal Videogame Museum** | [https://www.nationaalvideogamemuseum.nl/](https://www.nationaalvideogamemuseum.nl/) | nl | Voor iedereen die meer wil weten (en beleven) over de geschiedenis, maatschappelijke en culturele kant van videogames.
 **Technolab Leiden** | [https://www.technolableiden.nl/](https://www.technolableiden.nl/) | nl | Voor op school en tijdens de vakantie.
 **The Space Leiden** | [https://spaceleiden.nl/](https://spaceleiden.nl/) | nl | Makerspace en hackerspace in Leiden.
  | | |
