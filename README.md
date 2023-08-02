@@ -30,6 +30,7 @@ De onderwerpen die al eens in een CoderDojo zijn behandeld kun je uiteraard vind
 **Machine Learning for Kids** | [https://machinelearningforkids.co.uk/?lang=nl-be#!/worksheets](https://machinelearningforkids.co.uk/?lang=nl-be#!/worksheets) | nl + en | Opdrachten voor machine learning-projecten met Scratch en Python.
 **Makey Makey** | [https://makeymakey.com/](https://makeymakey.com/) | en | Projecten waarbij je de computer koppelt aan dingen uit de echte wereld.
 **MicroBlocks** | [https://microblocks.fun/](https://microblocks.fun/) | en | Een blok-gebaseerde programmeertaal om kleine computers zoals de micro:bit mee te programmeren.
+**Moonhack** | [https://moonhack.com/](https://moonhack.com/) | en + nl | Een jaarlijks evenement waarbij met Scratch, Python en micro:bit aan projecten wordt gewerkt die te maken hebben met de ruimte en ruimtevaart.
 **Peter Mathijssen** | [https://petermathijssen.nl/](http://petermathijssen.nl/) | nl | Projecten, tips en trucs, lessen en nog veel meer over App Inventor.
 **Processing** | [https://processing.org/](https://processing.org/) | en | Een programmeertaal en -omgeving o.a. voor het maken van 2D- en 3D-ontwerpen. Ook JavaScript, Python, Raspberry Pi en Android worden ondersteund.
 **Project Beats** | [https://studio.code.org/projectbeats](https://studio.code.org/projectbeats) | en | Maak muziek met code! Probeer bij elkaar passende beats te mixen met bassen en andere geluiden om je eigen songs te maken.
