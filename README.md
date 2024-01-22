@@ -9,7 +9,6 @@ De onderwerpen die al eens in een CoderDojo zijn behandeld kun je uiteraard vind
 **Wat** | **Waar** | **Taal** | **Beschrijving**
 :--- | :--- | :--- | :---
 **Alice** | [https://www.alice.org/](https://www.alice.org/) | en | Een blok-gebaseerde programmeertaal om animaties, interactieve verhalen en eenvoudige 3D-spellen te maken.
-**Astro Pi** | [https://astro-pi.org/](https://astro-pi.org/) | en + nl | Schrijf programma's en ontwerp experimenten die aan boord van het ISS worden uitgevoerd.
 **Beverwedstrijd** | [https://www.beverwedstrijd.nl/](https://www.beverwedstrijd.nl/) | nl | De Beverwedstrijd is bedoeld om spelenderwijs te ontdekken of je interesse en/of talent hebben voor informatica en computational thinking.
 **Blender** | [https://www.blender.org/](https://www.blender.org/) | en | Software om 3D-animaties, video's en nog veel meer te maken.
 **Dash & Dot** | [https://www.makewonder.com/robots/](https://www.makewonder.com/robots/) | en | Eenvoudige programmeerbare robots die kunnen reageren op stemmen en geluiden.
@@ -20,7 +19,7 @@ De onderwerpen die al eens in een CoderDojo zijn behandeld kun je uiteraard vind
 **Game Studio** | [https://gamestudio.hetklokhuis.nl/](https://gamestudio.hetklokhuis.nl/) | nl | Maak eenvoudige games met dit programma van Het Klokhuis.
 **Godot Engine** | [https://godotengine.org/](https://godotengine.org/) | en | Programmeer professionele games gebruik makend van GDScript (een soort Python), C of C#.
 **Greenfoot** | [https://www.greenfoot.org/door](https://www.greenfoot.org/door) | en | Eenvoudige visuele programmeeromgeving voor de programmeertaal Java.
-**HackShield** | [https://www.joinhackshield.nl/](https://www.joinhackshield.nl/) | nl | HackShield is een game die kinderen tussen de 8 en 12 jaar oud weerbaar maakt tegen cybercriminaliteit.
+**HackShield** | [https://www.joinhackshield.com/nl](https://www.joinhackshield.com/nl) | nl | HackShield is een game die kinderen tussen de 8 en 12 jaar oud weerbaar maakt tegen cybercriminaliteit.
 **Hedy** | [http://www.hedycode.com/?lang=nl](http://www.hedycode.com/?lang=nl) | nl | Leer stap voor stap Python programmeren. Begin met eenvoudige commando's en leer steeds meer commando's.
 **IoT-For-Beginners** | [https://github.com/microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners) | en | Lesmateriaal om projecten uit te voeren met Internet of Things (IoT) op een Arduino of een Raspberry Pi.
 **Klooikoffers** | [https://klooikoffers.nl/](https://klooikoffers.nl/) | nl | Knutselen met gereedschappen en materialen en ook met de micro:bit.
@@ -52,7 +51,7 @@ De onderwerpen die al eens in een CoderDojo zijn behandeld kun je uiteraard vind
  | | |
 **CoderDojo Alphen aan den Rijn** | [https://coderdojo-alphenaandenrijn.nl/](https://coderdojo-alphenaandenrijn.nl/) | nl | De CoderDojo in Alphen aan den Rijn.
 **CoderDojo Den Haag** | [https://www.coderdojo-denhaag.nl/](https://www.coderdojo-denhaag.nl/) | nl | De CoderDojo in Den Haag.
-**CoderDojo Hazerswoude-Rijndijk** | [https://www.coderdojo-hazerswoude.nl/](https://www.coderdojo-hazerswoude.nl/) | nl | De CoderDojo in Hazerswoude-Rijndijk.
+**CoderDojo Rijnwoude** | [https://www.coderdojo-rijnwoude.nl/](https://www.coderdojo-rijnwoude.nl/) | nl | De CoderDojo's in Hazerswoude-Rijndijk, Hazerswoude-Dorp en Benthuizen.
 **CoderDojo Zoetermeer** | [http://www.coderdojo-zoetermeer.nl/](http://www.coderdojo-zoetermeer.nl/) | nl | De CoderDojo in Zoetermeer.
  | | |
 **Code.org** | [https://code.org/](https://code.org/) | nl | Cursussen en activiteiten om te leren programmeren.
